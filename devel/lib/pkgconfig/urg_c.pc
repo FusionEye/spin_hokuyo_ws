@@ -1,8 +1,0 @@
-prefix=/home/leon/Documents/spin-hokuyo_ws/devel
-
-Name: urg_c
-Description: Description of urg_c
-Version: 1.0.404
-Cflags: -I/home/leon/Documents/spin-hokuyo_ws/src/urg_c-master/current/include
-Libs: -L/home/leon/Documents/spin-hokuyo_ws/devel/lib -lliburg_c
-Requires: 

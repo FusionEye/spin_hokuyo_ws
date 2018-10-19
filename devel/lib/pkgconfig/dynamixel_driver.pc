@@ -1,8 +1,0 @@
-prefix=/home/leon/Documents/spin-hokuyo_ws/devel
-
-Name: dynamixel_driver
-Description: Description of dynamixel_driver
-Version: 0.4.1
-Cflags: 
-Libs: -L/home/leon/Documents/spin-hokuyo_ws/devel/lib 
-Requires: rospy diagnostic_msgs

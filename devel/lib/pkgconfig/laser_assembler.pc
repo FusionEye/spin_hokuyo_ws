@@ -1,8 +1,0 @@
-prefix=/home/leon/Documents/spin-hokuyo_ws/devel
-
-Name: laser_assembler
-Description: Description of laser_assembler
-Version: 1.7.5
-Cflags: -I/home/leon/Documents/spin-hokuyo_ws/devel/include -I/home/leon/Documents/spin-hokuyo_ws/src/laser_assembler-hydro-devel/include
-Libs: -L/home/leon/Documents/spin-hokuyo_ws/devel/lib 
-Requires: tf sensor_msgs message_filters roscpp laser_geometry filters message_runtime

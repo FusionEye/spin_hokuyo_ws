@@ -1,8 +1,0 @@
-prefix=/home/leon/Documents/spin-hokuyo_ws/devel
-
-Name: dynamixel_controllers
-Description: Description of dynamixel_controllers
-Version: 0.4.1
-Cflags: -I/home/leon/Documents/spin-hokuyo_ws/devel/include
-Libs: -L/home/leon/Documents/spin-hokuyo_ws/devel/lib 
-Requires: rospy actionlib dynamixel_driver std_msgs trajectory_msgs diagnostic_msgs dynamixel_msgs control_msgs
