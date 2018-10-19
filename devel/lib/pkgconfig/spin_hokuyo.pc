@@ -1,0 +1,8 @@
+prefix=/home/leon/Documents/spin-hokuyo_ws/devel
+
+Name: spin_hokuyo
+Description: Description of spin_hokuyo
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/leon/Documents/spin-hokuyo_ws/devel/lib 
+Requires: actionlib dynamixel_driver std_msgs trajectory_msgs diagnostic_msgs dynamixel_msgs control_msgs

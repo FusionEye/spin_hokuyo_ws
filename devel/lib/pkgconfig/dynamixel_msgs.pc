@@ -1,0 +1,8 @@
+prefix=/home/leon/Documents/spin-hokuyo_ws/devel
+
+Name: dynamixel_msgs
+Description: Description of dynamixel_msgs
+Version: 0.4.1
+Cflags: -I/home/leon/Documents/spin-hokuyo_ws/devel/include
+Libs: -L/home/leon/Documents/spin-hokuyo_ws/devel/lib 
+Requires: message_runtime std_msgs
